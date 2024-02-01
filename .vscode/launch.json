@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Throw_vs_throws",
+            "request": "launch",
+            "mainClass": "Exception__handling.Throw_vs_throws",
+            "projectName": "java_22f9f1ea"
+        },
+        {
+            "type": "java",
             "name": "Checked_unchecked_exceptions",
             "request": "launch",
             "mainClass": "Exception__handling.Checked_unchecked_exceptions",
