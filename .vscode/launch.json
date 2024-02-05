@@ -6,6 +6,41 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Method_overloadingII",
+      "request": "launch",
+      "mainClass": "Practice.Method_overloadingII",
+      "projectName": "java_22f9f1ea"
+    },
+    {
+      "type": "java",
+      "name": "Method_overloading",
+      "request": "launch",
+      "mainClass": "Practice.Method_overloading",
+      "projectName": "java_22f9f1ea"
+    },
+    {
+      "type": "java",
+      "name": "InheritanceII",
+      "request": "launch",
+      "mainClass": "Practice.InheritanceII",
+      "projectName": "java_22f9f1ea"
+    },
+    {
+      "type": "java",
+      "name": "Interface",
+      "request": "launch",
+      "mainClass": "Practice.Interface",
+      "projectName": "java_22f9f1ea"
+    },
+    {
+      "type": "java",
+      "name": "Object_class",
+      "request": "launch",
+      "mainClass": "Java_lang_package.Object_class",
+      "projectName": "java_22f9f1ea"
+    },
+    {
+      "type": "java",
       "name": "Teacher_student_problem_producer_consumer",
       "request": "launch",
       "mainClass": "Multithreading.Teacher_student_problem_producer_consumer",
