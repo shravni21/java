@@ -6,6 +6,48 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Enum",
+      "request": "launch",
+      "mainClass": "Java_lang_package.Enum",
+      "projectName": "java_22f9f1ea"
+    },
+    {
+      "type": "java",
+      "name": "Math_class",
+      "request": "launch",
+      "mainClass": "Java_lang_package.Math_class",
+      "projectName": "java_22f9f1ea"
+    },
+    {
+      "type": "java",
+      "name": "String_buffer_builder",
+      "request": "launch",
+      "mainClass": "Java_lang_package.String_buffer_builder",
+      "projectName": "java_22f9f1ea"
+    },
+    {
+      "type": "java",
+      "name": "Wrapper_classes",
+      "request": "launch",
+      "mainClass": "Java_lang_package.Wrapper_classes",
+      "projectName": "java_22f9f1ea"
+    },
+    {
+      "type": "java",
+      "name": "Anagrams",
+      "request": "launch",
+      "mainClass": "Practice.Anagrams",
+      "projectName": "java_22f9f1ea"
+    },
+    {
+      "type": "java",
+      "name": "Multiple_inheritance",
+      "request": "launch",
+      "mainClass": "Practice.Multiple_inheritance",
+      "projectName": "java_22f9f1ea"
+    },
+    {
+      "type": "java",
       "name": "Method_overloadingII",
       "request": "launch",
       "mainClass": "Practice.Method_overloadingII",
