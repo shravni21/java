@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Annotations_builtin",
+      "request": "launch",
+      "mainClass": "Annotations_and_Java_doc.Annotations_builtin",
+      "projectName": "java_22f9f1ea"
+    },
+    {
+      "type": "java",
       "name": "Enum",
       "request": "launch",
       "mainClass": "Java_lang_package.Enum",

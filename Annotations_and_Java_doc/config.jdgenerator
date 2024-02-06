@@ -1,0 +1,13 @@
+==== CONFIGS ====
+PROJECT FOLDER: c:\Users\HP\java\Annotations_and_Java_doc
+JAVADOC OUT FOLDER: c:\Users\HP\java\Annotations_and_Java_doc\javadoc
+JAVDOC.exe: C:\Program Files\Java\jdk-17.0.1\bin\javadoc.exe
+
+
+==== COMMAND ====
+"C:\Program Files\Java\jdk-17.0.1\bin\javadoc.exe" 
+	-sourcepath "c:\Users\HP\java\Annotations_and_Java_doc" 
+	-d "c:\Users\HP\java\Annotations_and_Java_doc\javadoc" 
+	"c:\Users\HP\java\Annotations_and_Java_doc\Book.java"
+
+
