@@ -6,6 +6,48 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Io_op_streams",
+      "request": "launch",
+      "mainClass": "Java_io_streams.Io_op_streams",
+      "projectName": "java_22f9f1ea"
+    },
+    {
+      "type": "java",
+      "name": "Method_ref_using_constructor",
+      "request": "launch",
+      "mainClass": "Lambda_expression.Method_ref_using_constructor",
+      "projectName": "java_22f9f1ea"
+    },
+    {
+      "type": "java",
+      "name": "Method_reference",
+      "request": "launch",
+      "mainClass": "Lambda_expression.Method_reference",
+      "projectName": "java_22f9f1ea"
+    },
+    {
+      "type": "java",
+      "name": "Capture_in_lambda_expressions",
+      "request": "launch",
+      "mainClass": "Lambda_expression.Capture_in_lambda_expressions",
+      "projectName": "java_22f9f1ea"
+    },
+    {
+      "type": "java",
+      "name": "Parameters_in_lambda_interface",
+      "request": "launch",
+      "mainClass": "Lambda_expression.Parameters_in_lambda_interface",
+      "projectName": "java_22f9f1ea"
+    },
+    {
+      "type": "java",
+      "name": "LambdaDemo",
+      "request": "launch",
+      "mainClass": "Lambda_expression.LambdaDemo",
+      "projectName": "java_22f9f1ea"
+    },
+    {
+      "type": "java",
       "name": "Annotations_builtin",
       "request": "launch",
       "mainClass": "Annotations_and_Java_doc.Annotations_builtin",

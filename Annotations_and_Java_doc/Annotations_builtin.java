@@ -40,7 +40,7 @@ public class Annotations_builtin {
     static List l;
 
     @SuppressWarnings("unchecked")
-    @suppresswarnings("Deprication")
+    // @suppresswarnings("Deprication")
     public static void main(String[] args) {
         l.add(10);
         test t = new test();

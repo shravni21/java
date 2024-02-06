@@ -4,7 +4,10 @@ import java.lang.annotation.*;
 
 @Documented
 
-@Target(value = ElementType.LOCAL_VARIABLE)
+@Target(value = { ElementType.LOCAL_VARIABLE, ElementType.METHOD })
+
+// @Repeatable (Myanno.class) The anno must be in different class and should be
+// public
 @interface Myanno {
     // they should not throw error, should not have any arguments
     // meta data
