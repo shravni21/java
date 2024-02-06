@@ -6,6 +6,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "File_reader",
+      "request": "launch",
+      "mainClass": "Java_io_streams.File_reader",
+      "projectName": "java_22f9f1ea"
+    },
+    {
+      "type": "java",
+      "name": "File_input_stream_and_file_reader",
+      "request": "launch",
+      "mainClass": "Java_io_streams.File_input_stream_and_file_reader",
+      "projectName": "java_22f9f1ea"
+    },
+    {
+      "type": "java",
       "name": "Io_op_streams",
       "request": "launch",
       "mainClass": "Java_io_streams.Io_op_streams",

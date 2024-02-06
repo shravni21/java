@@ -4,6 +4,7 @@ import java.io.FileNotFoundException;
 import java.io.FileOutputStream;
 import java.io.IOException;
 
+// IO Streams
 public class Io_op_streams {
     public static void main(String[] args) {
         try {
