@@ -1,5 +1,7 @@
 package mypack2;
 
+import mypack2.Demo1;
+
 // Same package non sub class
 
 public class Demo2 {

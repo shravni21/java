@@ -10,12 +10,12 @@ public class Io_op_streams {
         try {
             FileOutputStream fo = new FileOutputStream("./Text.txt");
             String str = "Currently learning Input Output stream.";
-            byte b[] = str.getBytes();
+            // byte b[] = str.getBytes();
             // for (byte x : b) {
             // fo.write(x);
             // }
-            // fo.write(str.getBytes());
-            fo.write(b, 6, b.length - 6);
+            fo.write(str.getBytes());
+            // fo.write(b, 6, b.length - 6);
             fo.close();
         } catch (FileNotFoundException e) {
             System.out.println(e);

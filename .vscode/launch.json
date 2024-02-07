@@ -6,6 +6,118 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Object_streams_and_serialisation",
+      "request": "launch",
+      "mainClass": "Java_io_streams.Object_streams_and_serialisation",
+      "projectName": "java_22f9f1ea"
+    },
+    {
+      "type": "java",
+      "name": "Data_Input_stream",
+      "request": "launch",
+      "mainClass": "Java_io_streams.Data_Input_stream",
+      "projectName": "java_22f9f1ea"
+    },
+    {
+      "type": "java",
+      "name": "Data_Inputstream",
+      "request": "launch",
+      "mainClass": "Java_io_streams.Data_Inputstream",
+      "projectName": "java_22f9f1ea"
+    },
+    {
+      "type": "java",
+      "name": "Data_streams",
+      "request": "launch",
+      "mainClass": "Java_io_streams.Data_streams",
+      "projectName": "java_22f9f1ea"
+    },
+    {
+      "type": "java",
+      "name": "Buffer_reader",
+      "request": "launch",
+      "mainClass": "Java_io_streams.Buffer_reader",
+      "projectName": "java_22f9f1ea"
+    },
+    {
+      "type": "java",
+      "name": "Print_stream",
+      "request": "launch",
+      "mainClass": "Java_io_streams.Print_stream",
+      "projectName": "java_22f9f1ea"
+    },
+    {
+      "type": "java",
+      "name": "File_Class",
+      "request": "launch",
+      "mainClass": "Java_io_streams.File_Class",
+      "projectName": "java_22f9f1ea"
+    },
+    {
+      "type": "java",
+      "name": "Random_access_file",
+      "request": "launch",
+      "mainClass": "Java_io_streams.Random_access_file",
+      "projectName": "java_22f9f1ea"
+    },
+    {
+      "type": "java",
+      "name": "Piped_stream",
+      "request": "launch",
+      "mainClass": "Java_io_streams.Piped_stream",
+      "projectName": "java_22f9f1ea"
+    },
+    {
+      "type": "java",
+      "name": "Buffered_reader",
+      "request": "launch",
+      "mainClass": "Java_io_streams.Buffered_reader",
+      "projectName": "java_22f9f1ea"
+    },
+    {
+      "type": "java",
+      "name": "Buffered_streams",
+      "request": "launch",
+      "mainClass": "Java_io_streams.Buffered_streams",
+      "projectName": "java_22f9f1ea"
+    },
+    {
+      "type": "java",
+      "name": "Char_array_reader",
+      "request": "launch",
+      "mainClass": "Java_io_streams.Char_array_reader",
+      "projectName": "java_22f9f1ea"
+    },
+    {
+      "type": "java",
+      "name": "Byte_output_stream",
+      "request": "launch",
+      "mainClass": "Java_io_streams.Byte_output_stream",
+      "projectName": "java_22f9f1ea"
+    },
+    {
+      "type": "java",
+      "name": "Byte_streams",
+      "request": "launch",
+      "mainClass": "Java_io_streams.Byte_streams",
+      "projectName": "java_22f9f1ea"
+    },
+    {
+      "type": "java",
+      "name": "Copy_a_file_1",
+      "request": "launch",
+      "mainClass": "Java_io_streams.Copy_a_file_1",
+      "projectName": "java_22f9f1ea"
+    },
+    {
+      "type": "java",
+      "name": "Copy_a_file",
+      "request": "launch",
+      "mainClass": "Java_io_streams.Copy_a_file",
+      "projectName": "java_22f9f1ea"
+    },
+    {
+      "type": "java",
       "name": "File_reader",
       "request": "launch",
       "mainClass": "Java_io_streams.File_reader",

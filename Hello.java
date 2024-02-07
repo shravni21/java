@@ -17,7 +17,7 @@ public class Hello {
         // System.out.println(n);
         // System.out.println("float" + by);
         // System.out.println("Hello I am shravni!");
-        String s="SHoaihspnadp";
-        s.toUpperCase()
+        String s = "SHoaihspnadp";
+        s.toUpperCase();
     }
 }
