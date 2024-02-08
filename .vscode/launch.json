@@ -6,6 +6,90 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Linkedlist_collection",
+      "request": "launch",
+      "mainClass": "Collections.Linkedlist_collection",
+      "projectName": "java_22f9f1ea"
+    },
+    {
+      "type": "java",
+      "name": "Collection_Arraylist_1",
+      "request": "launch",
+      "mainClass": "Collections.Collection_Arraylist_1",
+      "projectName": "java_22f9f1ea"
+    },
+    {
+      "type": "java",
+      "name": "Map_collection",
+      "request": "launch",
+      "mainClass": "Collections.Map_collection",
+      "projectName": "java_22f9f1ea"
+    },
+    {
+      "type": "java",
+      "name": "TreeSet_collection",
+      "request": "launch",
+      "mainClass": "Collections.TreeSet_collection",
+      "projectName": "java_22f9f1ea"
+    },
+    {
+      "type": "java",
+      "name": "Set_collection",
+      "request": "launch",
+      "mainClass": "Collections.Set_collection",
+      "projectName": "java_22f9f1ea"
+    },
+    {
+      "type": "java",
+      "name": "Deque_collection",
+      "request": "launch",
+      "mainClass": "Collections.Deque_collection",
+      "projectName": "java_22f9f1ea"
+    },
+    {
+      "type": "java",
+      "name": "Priority_queue_collection",
+      "request": "launch",
+      "mainClass": "Collections.Priority_queue_collection",
+      "projectName": "java_22f9f1ea"
+    },
+    {
+      "type": "java",
+      "name": "Queue_collection",
+      "request": "launch",
+      "mainClass": "Collections.Queue_collection",
+      "projectName": "java_22f9f1ea"
+    },
+    {
+      "type": "java",
+      "name": "Stack_collection",
+      "request": "launch",
+      "mainClass": "Collections.Stack_collection",
+      "projectName": "java_22f9f1ea"
+    },
+    {
+      "type": "java",
+      "name": "Collection_1",
+      "request": "launch",
+      "mainClass": "Collections.Collection_1",
+      "projectName": "java_22f9f1ea"
+    },
+    {
+      "type": "java",
+      "name": "Generic",
+      "request": "launch",
+      "mainClass": "Generics.Generic",
+      "projectName": "java_22f9f1ea"
+    },
+    {
+      "type": "java",
+      "name": "GenericDemo",
+      "request": "launch",
+      "mainClass": "Generics.GenericDemo",
+      "projectName": "java_22f9f1ea"
+    },
+    {
+      "type": "java",
       "name": "Object_streams_and_serialisation",
       "request": "launch",
       "mainClass": "Java_io_streams.Object_streams_and_serialisation",
