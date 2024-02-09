@@ -33,9 +33,11 @@ class Point implements Comparable {
 
 public class Comparator_interface {
     public static void main(String[] args) {
-        TreeSet<Integer> ts = new TreeSet<>();
+        TreeSet<Point> ts = new TreeSet<>();
         ts.add(new Point(1, 1));
         ts.add(new Point(2, 6));
+        ts.add(new Point(4, 5));
+        System.out.println(ts);
 
     }
 }

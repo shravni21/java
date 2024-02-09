@@ -6,6 +6,76 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Chronofield_Time",
+      "request": "launch",
+      "mainClass": "Date_and_Time_API.Chronofield_Time",
+      "projectName": "java_22f9f1ea"
+    },
+    {
+      "type": "java",
+      "name": "Date_Time_Formatter",
+      "request": "launch",
+      "mainClass": "Date_and_Time_API.Date_Time_Formatter",
+      "projectName": "java_22f9f1ea"
+    },
+    {
+      "type": "java",
+      "name": "Date_and_time_classes",
+      "request": "launch",
+      "mainClass": "Date_and_Time_API.Date_and_time_classes",
+      "projectName": "java_22f9f1ea"
+    },
+    {
+      "type": "java",
+      "name": "Joda_date_and_time",
+      "request": "launch",
+      "mainClass": "Date_and_Time_API.Joda_date_and_time",
+      "projectName": "java_22f9f1ea"
+    },
+    {
+      "type": "java",
+      "name": "Calender_time",
+      "request": "launch",
+      "mainClass": "Date_and_Time_API.Calender_time",
+      "projectName": "java_22f9f1ea"
+    },
+    {
+      "type": "java",
+      "name": "Calender",
+      "request": "launch",
+      "mainClass": "Date_and_Time_API.Calender",
+      "projectName": "java_22f9f1ea"
+    },
+    {
+      "type": "java",
+      "name": "DateDemo",
+      "request": "launch",
+      "mainClass": "Date_and_Time_API.DateDemo",
+      "projectName": "java_22f9f1ea"
+    },
+    {
+      "type": "java",
+      "name": "Linked_hashmap_collection_as_cache",
+      "request": "launch",
+      "mainClass": "Collections.Linked_hashmap_collection_as_cache",
+      "projectName": "java_22f9f1ea"
+    },
+    {
+      "type": "java",
+      "name": "Treemap_collection",
+      "request": "launch",
+      "mainClass": "Collections.Treemap_collection",
+      "projectName": "java_22f9f1ea"
+    },
+    {
+      "type": "java",
+      "name": "Comparator_interface",
+      "request": "launch",
+      "mainClass": "Collections.Comparator_interface",
+      "projectName": "java_22f9f1ea"
+    },
+    {
+      "type": "java",
       "name": "Linkedlist_collection",
       "request": "launch",
       "mainClass": "Collections.Linkedlist_collection",

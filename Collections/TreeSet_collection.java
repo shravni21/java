@@ -2,11 +2,6 @@ package Collections;
 
 import java.util.*;
 
-class Point {
-    int x;
-    int y;
-}
-
 public class TreeSet_collection {
     public static void main(String[] args) {
         // Maintained in any order
