@@ -23,6 +23,5 @@ public class Max_in_array {
             arr[i] = sc.nextInt();
         }
         System.out.println("The maximum element of the array is: " + find_max(arr, n));
-
     }
 }

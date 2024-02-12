@@ -6,6 +6,76 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Client",
+      "request": "launch",
+      "mainClass": "Networking1.MultiThreaded_reverse_echo.Client",
+      "projectName": "java_22f9f1ea"
+    },
+    {
+      "type": "java",
+      "name": "Client",
+      "request": "launch",
+      "mainClass": "Networking1.Client",
+      "projectName": "java_22f9f1ea"
+    },
+    {
+      "type": "java",
+      "name": "Server",
+      "request": "launch",
+      "mainClass": "Networking1.Server",
+      "projectName": "java_22f9f1ea"
+    },
+    {
+      "type": "java",
+      "name": "Server_reverse_echo",
+      "request": "launch",
+      "mainClass": "Networking.Server_reverse_echo",
+      "projectName": "java_22f9f1ea"
+    },
+    {
+      "type": "java",
+      "name": "Client",
+      "request": "launch",
+      "mainClass": "Networking.Client",
+      "projectName": "java_22f9f1ea"
+    },
+    {
+      "type": "java",
+      "name": "Multithreading_in_java2",
+      "request": "launch",
+      "mainClass": "Multithreading.Multithreading_in_java2",
+      "projectName": "java_22f9f1ea"
+    },
+    {
+      "type": "java",
+      "name": "Multithreading_in_java1",
+      "request": "launch",
+      "mainClass": "Multithreading.Multithreading_in_java1",
+      "projectName": "java_22f9f1ea"
+    },
+    {
+      "type": "java",
+      "name": "Example",
+      "request": "launch",
+      "mainClass": "Exception__handling.Example",
+      "projectName": "java_22f9f1ea"
+    },
+    {
+      "type": "java",
+      "name": "Box",
+      "request": "launch",
+      "mainClass": "Generics.Box",
+      "projectName": "java_22f9f1ea"
+    },
+    {
+      "type": "java",
+      "name": "Generics_1",
+      "request": "launch",
+      "mainClass": "Generics.Generics_1",
+      "projectName": "java_22f9f1ea"
+    },
+    {
+      "type": "java",
       "name": "Chronofield_Time",
       "request": "launch",
       "mainClass": "Date_and_Time_API.Chronofield_Time",
