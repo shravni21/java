@@ -3,9 +3,6 @@ package Java_io_streams;
 import java.io.*;
 
 class Student {
-    public Student(int i, String string, float f, String string2) {
-        // TODO Auto-generated constructor stub
-    }
 
     int rollno;
     String name;

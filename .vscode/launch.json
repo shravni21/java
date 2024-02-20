@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "JDBC_Delete_query",
+      "request": "launch",
+      "mainClass": "JDBC.JDBC_Delete_query",
+      "projectName": "java_22f9f1ea"
+    },
+    {
+      "type": "java",
       "name": "Client",
       "request": "launch",
       "mainClass": "Networking1.MultiThreaded_reverse_echo.Client",
