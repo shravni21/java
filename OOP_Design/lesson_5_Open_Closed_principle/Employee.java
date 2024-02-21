@@ -1,6 +1,4 @@
-package Domain;
-
-public class Employee {
+abstract public class Employee {
     private int id;
     private String name;
     private String Department;
@@ -14,7 +12,7 @@ public class Employee {
         this.Department = department;
         this.working = working;
     }
-
+public abstract void performDuties();
     @Override
     public String toString() {
         return "Employee_id= " + id + ", name= " + name + ", Department= " + Department + ", Woeking= " + working;

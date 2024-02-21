@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/Employee_Report.iml" filepath="$PROJECT_DIR$/.idea/Employee_Report.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Open_Closed_principle.iml" filepath="$PROJECT_DIR$/.idea/Open_Closed_principle.iml" />
     </modules>
   </component>
 </project>
